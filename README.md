@@ -75,7 +75,7 @@ npm install
 
 Install SB Admin 2 needed package from npm
 ```bash
-npm install --save-dev sb-admin-2 fastclick font-awesome icheck slim-scroll
+npm install --save-dev sb-admin-2 bootstrap-social datatables.net datatables.net-bs datatables.net-responsive datatables.net-responsive-bs font-awesome metismenu morris.js startbootstrap-sb-admin-2
 ```
 
 Run Laravel Mix command
