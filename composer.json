@@ -15,9 +15,6 @@
         "laravel/tinker": "~1.0"
     },
     "autoload": {
-        "classmap": [
-            "database"
-        ],
         "psr-4": {
             "Atnic\\SBAdmin2\\": "app/"
         }
