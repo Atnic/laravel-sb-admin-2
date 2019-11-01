@@ -1,21 +1,21 @@
 // Bootstrap
-@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
 
 // Bootstrap Social
-@import "node_modules/bootstrap-social/bootstrap-social.scss";
+@import "~bootstrap-social/bootstrap-social";
 
 // MetisMenu
-@import "node_modules/metismenu/dist/metisMenu";
+@import "~metismenu/src/metisMenu";
 
 // Morris.js
-@import "node_modules/morris.js/morris";
+@import "~morris.js/morris";
 
 // Datatables.net
-@import "node_modules/datatables.net-bs/css/dataTables.bootstrap";
-@import "node_modules/datatables.net-responsive-bs/css/responsive.bootstrap";
+@import "~datatables.net-bs/css/dataTables.bootstrap";
+@import "~datatables.net-responsive-bs/css/responsive.bootstrap";
 
 // SB Admin 2
-@import "node_modules/startbootstrap-sb-admin-2/dist/css/sb-admin-2";
+@import "~startbootstrap-sb-admin-2/dist/css/sb-admin-2";
 
 // Font-Awesome
-@import "node_modules/font-awesome/scss/font-awesome";
+@import "~font-awesome/scss/font-awesome";
